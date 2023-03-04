@@ -3,18 +3,18 @@
 </div>
 <div align="center">
   <h3>A bit about me:</h3>
-  🎓 Soon-to-graduate student at <a href='https://www.hive.fi/en/'>Hive Helsinki</a>, a member of <a href='https://42.fr/en/what-is-42/42-program-explained/'>42 Network</a>
+  🎓 Finished <a href='https://www.hive.fi/en/'>Hive Helsinki</a> core studies, a member of <a href='https://42.fr/en/what-is-42/42-program-explained/'>42 Network</a>
   <br> 
 🏄🏻‍♀️ Career changer to Software Development with previous background in Tourism and Hospitality Management 
   <br>
-🔭 Currently focusing on building <strong>full-stack web applications</strong> using <strong>React, Node.js</strong> and <strong>TypeScript</strong>
+🔭 Currently focusing on a <strong>front-end</strong> web development using <strong>Typescript</strong> and <strong>React</strong>
   <br>
 👩🏻‍💻 My strength and passion is in creating visually appealing user interfaces with attention to detail
   <br> <br>
 
 <!-- ***Languages and frameworks:***    -->
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'>
 <img src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'>
 <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
